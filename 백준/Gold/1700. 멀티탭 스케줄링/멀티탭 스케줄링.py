@@ -1,3 +1,4 @@
+#백준허브테스트용
 N, K = map(int, input().split())
 if N >= K:
     print(0)
