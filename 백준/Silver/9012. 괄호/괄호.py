@@ -1,3 +1,4 @@
+#백준허브테스트용
 N = int(input())
 for i in range(N):
     trigger = True
